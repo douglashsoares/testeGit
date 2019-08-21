@@ -1,1 +1,5 @@
 Inicio
+
+public void salguod(){
+
+}

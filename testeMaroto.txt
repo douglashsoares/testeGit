@@ -3,3 +3,7 @@ Inicio
 public void salguod(){
 
 }
+
+public void mercy(){
+    
+}

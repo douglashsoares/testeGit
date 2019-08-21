@@ -5,5 +5,5 @@ public void salguod(){
 }
 
 public void mercy(){
-    
+    System.out.println("Hello World Lindão!!!!");
 }

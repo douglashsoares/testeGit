@@ -1,7 +1,7 @@
 Inicio
 
 public void salguod(){
-    system.out.println("Hello world!!");
+    system.out.println("Hello world!! do salguod");
 }
 
 public void mercy(){
